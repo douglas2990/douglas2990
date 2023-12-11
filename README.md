@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @douglas2990
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Douglas Oliveira
+Estou a procura de oportunidades como Desenvolvedor Mobile para Android
 
-<!---
-douglas2990/douglas2990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Resumo qualificações:
+Analista desenvolvedor com experiência em desenvolvimento de software para  plataforma mobile (Android) .
+Sempre estudando e melhorando habilidades para o desenvolvimento.
+
+Conhecimentos técnicos de desenvolvimento:
+Android(nativo Java & Kotlin):
+Desenvolvimento nas versões 2.3 à atual.
+Conhecimentos em REST, JSON, RxJava,  Activity, AndroidX, Firebase, criação de componentes de  telas personalizadas e layouts.
+Arquiteturas:
+MVC, MVVM
+Bibliotecas/Frameworks:
+Retrofit2, Picasso, Fresco, AndroidX, Firebase, Back4App
+ IDE’s de desenvolvimento:
+Android Studio
