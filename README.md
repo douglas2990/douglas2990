@@ -1,4 +1,6 @@
 Douglas Oliveira
+
+
 Estou a procura de oportunidades como Desenvolvedor Mobile para Android
 
 Resumo qualificações:
