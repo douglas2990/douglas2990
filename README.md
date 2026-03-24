@@ -77,7 +77,6 @@
 | **LinkedIn** | [linkedin.com/in/douglas2990](https://linkedin.com/in/douglas2990) |
 | **Email** | [douglas2990@hotmail.com](mailto:douglas2990@hotmail.com) |
 | **GitHub** | [@douglas2990](https://github.com/douglas2990) |
-| **Portfolio** | [seu-portfolio.com](https://seu-portfolio.com) |
 
 ---
 
