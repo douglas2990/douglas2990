@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Douglas+Oliveira;Android+Developer;Kotlin+and+Clean+Architecture" alt="Typing SVG" />>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Douglas+Oliveira;Android+Developer;Kotlin+and+Clean+Architecture" alt="Typing SVG" />
 
   <h3>📱 Android Developer | Kotlin | Clean Architecture | MVVM</h3>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-sousa-de-oliveira-775a50b3/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas2990@hotmail.com)
+  [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:douglas2990@hotmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/douglas2990)
 
   <p align="center">
@@ -71,10 +71,7 @@
 
 ---
 
-
 <div align="center">
   <p>Estou sempre em busca de novos desafios e colaborações!</p>
   <img src="https://komarev.com/ghpvc/?username=douglas2990&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
 </div>
-
-
