@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Douglas%20Oliveira&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Douglas+Oliveira;Android+Developer;Kotlin+and+Clean+Architecture" alt="Typing SVG" />>
 
   <h3>📱 Android Developer | Kotlin | Clean Architecture | MVVM</h3>
 
@@ -71,14 +71,6 @@
 
 ---
 
-### 📈 Estatísticas | GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas2990&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas2990&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
 
 <div align="center">
   <p>Estou sempre em busca de novos desafios e colaborações!</p>
